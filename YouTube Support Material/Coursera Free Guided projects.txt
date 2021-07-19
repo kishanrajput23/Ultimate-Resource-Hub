@@ -1,0 +1,50 @@
+1.  Machine Learning Pipelines with Azure ML Studio
+2. Use SurveyMonkey to Create a Survey and Analyze Results
+3. Semantic Segmentation with Amazon Sagemaker
+4. Create a Storyboard using Canva
+5. Search Engine Optimization (SEO) with Squarespace
+6. Use Canva to Create Desktop and Mobile-friendly Web Pages
+7. Introduction to CRM with HubSpot
+8. Building a Business Presence With Facebook Marketing
+9. AWS S3 Basics
+10. Azure Synapse SQL Pool - Implement Polybase
+11. Introduction to Basic Game Development using Scratch
+12. AWS Cloudfront: Serve content from multiple S3 buckets
+13. Change Leadership: Developing Strategic Gap Analysis in Miro
+14. Create a Project Charter in Google Sheets
+15. Create a Document Editing Checklist with Google Docs
+16. Create a Visual Tasks Guide with Google Slides
+17. Design a Factor Analysis Using Survey Data in Google Sheets
+18. Create an Issue Log in Google Docs
+19. Develop a Company Website with Wix
+20. Marketing Design with Easil
+21. Build a Full Website using WordPress
+22. Create a Business Marketing Brand Kit Using Canva
+23. Compose and Program Music in Python using Earsketch
+24. Introduction to Project Management with ClickUp
+25. Getting Started in Google Analytics
+26. Google Ads for Beginners
+27. Create a Resume and Cover Letter with Google Docs
+28. Build Training Website using Google Sites
+29. Create a Website Using WordPress : Free Hosting & Sub-domain
+30. Increase SEO Traffic with WordPress
+31. Creating a Free Business Page with Blogger
+32. Create online classes with Google Classroom
+33. Create Class Rewards with Google Slides
+34. Create a Profile and Network on LinkedIn
+35. Strategically Build and Engage Your Network on LinkedIn
+36. Introduction to Google Docs
+37. Using Video in Social Media Posts with Canva
+38. Introduction to Business Analysis Using Spreadsheets: Basics
+39. Improving Math Engagement with Prodigy
+40. Impute Data to Forecast Demand in Google Sheets
+41. Accomplishment STAR Techniques for Job Interviews
+42. Developing Advanced Programme Delivery Framework in ClickUp
+43. Building Custom Regional Reports with Google Analytics
+44. Conduct Sales Projections with Seasonality in Google Sheets
+45. Change Leadership: Strategic Route Analysis with Miro
+46. Change Leadership: Developing Force Field Analysis in Miro
+47. Create an Engaging Marketing Pitch using Google Slides
+48. Mycelium Growth with NetLogo Web
+49. Create a Stakeholder Management Plan in Google Docs
+50. Program Stakeholders Management in ClickUp
